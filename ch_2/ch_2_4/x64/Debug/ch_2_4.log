@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Users\dh-ry\Desktop\CPP2025\ch_2\ch_2_4\source.cpp(39,1): warning C4172: 지역 변수 또는 임시: ref의 주소를 반환하고 있습니다.
+  ch_2_4.vcxproj -> C:\Users\dh-ry\Desktop\CPP2025\ch_2\x64\Debug\ch_2_4.exe

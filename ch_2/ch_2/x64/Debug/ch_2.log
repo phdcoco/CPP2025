@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Users\dh-ry\Desktop\CPP2025\ch_2\ch_2\source.cpp(21,10): warning C4101: 'pnum2' :참조되지 않은 지역 변수입니다.
+  ch_2.vcxproj -> C:\Users\dh-ry\Desktop\CPP2025\ch_2\x64\Debug\ch_2_1.exe
