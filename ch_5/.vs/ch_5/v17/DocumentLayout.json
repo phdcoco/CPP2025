@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3E740C-2B7F-480D-910D-12F5AAA5717D}|ch_5_3\\ch_5_3.vcxproj|C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\ch_5_3\\inheritance_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC3E740C-2B7F-480D-910D-12F5AAA5717D}|ch_5_3\\ch_5_3.vcxproj|solutionrelative:ch_5_3\\inheritance_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A16F26-2271-48F1-BF7C-0E7EFAC78E7B}|ch_5_2\\ch_5_2.vcxproj|C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\ch_5_2\\inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31A16F26-2271-48F1-BF7C-0E7EFAC78E7B}|ch_5_2\\ch_5_2.vcxproj|solutionrelative:ch_5_2\\inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB124BA-D642-4215-B1FE-3394C4B37896}|CH_5_5\\CH_5_5.vcxproj|C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\CH_5_5\\HAS_A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFB124BA-D642-4215-B1FE-3394C4B37896}|CH_5_5\\CH_5_5.vcxproj|solutionrelative:CH_5_5\\HAS_A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E5D04-216A-4446-9067-F69C82CC399B}|ch_5_4\\ch_5_4.vcxproj|C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\ch_5_4\\explicit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F6E5D04-216A-4446-9067-F69C82CC399B}|ch_5_4\\ch_5_4.vcxproj|solutionrelative:ch_5_4\\explicit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 375,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HAS_A.cpp",
+              "DocumentMoniker": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\CH_5_5\\HAS_A.cpp",
+              "RelativeDocumentMoniker": "CH_5_5\\HAS_A.cpp",
+              "ToolTip": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\CH_5_5\\HAS_A.cpp",
+              "RelativeToolTip": "CH_5_5\\HAS_A.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T06:45:47.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "explicit.cpp",
+              "DocumentMoniker": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\ch_5_4\\explicit.cpp",
+              "RelativeDocumentMoniker": "ch_5_4\\explicit.cpp",
+              "ToolTip": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\ch_5_4\\explicit.cpp",
+              "RelativeToolTip": "ch_5_4\\explicit.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-16T13:55:40.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inheritance.cpp",
+              "DocumentMoniker": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\ch_5_2\\inheritance.cpp",
+              "RelativeDocumentMoniker": "ch_5_2\\inheritance.cpp",
+              "ToolTip": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\ch_5_2\\inheritance.cpp",
+              "RelativeToolTip": "ch_5_2\\inheritance.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T08:28:30.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inheritance_2.cpp",
+              "DocumentMoniker": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\ch_5_3\\inheritance_2.cpp",
+              "RelativeDocumentMoniker": "ch_5_3\\inheritance_2.cpp",
+              "ToolTip": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_5\\ch_5_3\\inheritance_2.cpp",
+              "RelativeToolTip": "ch_5_3\\inheritance_2.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T07:08:22.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

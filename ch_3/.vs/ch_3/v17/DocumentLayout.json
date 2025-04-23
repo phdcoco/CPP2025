@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4520032E-1C83-46F8-94DC-B31530D89246}|Test_HW\\Test_HW.vcxproj|C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\Test_HW\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4520032E-1C83-46F8-94DC-B31530D89246}|Test_HW\\Test_HW.vcxproj|solutionrelative:Test_HW\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D832FD-1172-4647-A7DA-5E1D32C8374D}|ch_3.vcxproj|C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03D832FD-1172-4647-A7DA-5E1D32C8374D}|ch_3.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C307E4A-48FD-48D8-B1AC-B2525F65DE5A}|header_source\\header_source.vcxproj|C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\header_source\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C307E4A-48FD-48D8-B1AC-B2525F65DE5A}|header_source\\header_source.vcxproj|solutionrelative:header_source\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C307E4A-48FD-48D8-B1AC-B2525F65DE5A}|header_source\\header_source.vcxproj|C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\header_source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C307E4A-48FD-48D8-B1AC-B2525F65DE5A}|header_source\\header_source.vcxproj|solutionrelative:header_source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C307E4A-48FD-48D8-B1AC-B2525F65DE5A}|header_source\\header_source.vcxproj|C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\header_source\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C307E4A-48FD-48D8-B1AC-B2525F65DE5A}|header_source\\header_source.vcxproj|solutionrelative:header_source\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\Test_HW\\test.cpp",
+              "RelativeDocumentMoniker": "Test_HW\\test.cpp",
+              "ToolTip": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\Test_HW\\test.cpp",
+              "RelativeToolTip": "Test_HW\\test.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T08:44:08.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\header_source\\Car.cpp",
+              "RelativeDocumentMoniker": "header_source\\Car.cpp",
+              "ToolTip": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\header_source\\Car.cpp",
+              "RelativeToolTip": "header_source\\Car.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T06:14:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\header_source\\Car.h",
+              "RelativeDocumentMoniker": "header_source\\Car.h",
+              "ToolTip": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\header_source\\Car.h",
+              "RelativeToolTip": "header_source\\Car.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T06:14:06.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\source.cpp",
+              "RelativeDocumentMoniker": "source.cpp",
+              "ToolTip": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\source.cpp",
+              "RelativeToolTip": "source.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T06:11:07.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\header_source\\main.cpp",
+              "RelativeDocumentMoniker": "header_source\\main.cpp",
+              "ToolTip": "C:\\Users\\dh-ry\\Desktop\\CPP2025\\ch_3\\header_source\\main.cpp",
+              "RelativeToolTip": "header_source\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T06:11:06.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
