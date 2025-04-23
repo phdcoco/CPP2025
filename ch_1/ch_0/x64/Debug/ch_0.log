@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(ch_0.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  source.cpp
+C:\Users\dh-ry\Desktop\CPP2025\ch_1\ch_0\source.cpp(72,18): error C2143: 구문 오류: ')'이(가) ',' 앞에 없습니다.
+C:\Users\dh-ry\Desktop\CPP2025\ch_1\ch_0\source.cpp(72,21): error C2059: 구문 오류: ')'
+C:\Users\dh-ry\Desktop\CPP2025\ch_1\ch_0\source.cpp(72,26): error C2563: 정식 매개 변수 목록과 일치하지 않는 항목이 있습니다.
+C:\Users\dh-ry\Desktop\CPP2025\ch_1\ch_0\source.cpp(72,26): error C2568: '<<': 함수 오버로드를 확인할 수 없습니다.
+  C:\Users\dh-ry\Desktop\CPP2025\ch_1\ch_0\source.cpp(72,26):
+  'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'일 수 있습니다.
+  
